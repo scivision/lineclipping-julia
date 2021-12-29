@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/scivision/lineclipping-julia.svg?branch=master)](https://travis-ci.com/scivision/lineclipping-julia)
-
 # Line clipping in Julia
 
 `lineClipping.jl` Cohen-Sutherland line clipping algorithm for Julia.
